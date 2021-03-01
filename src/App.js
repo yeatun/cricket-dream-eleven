@@ -25,9 +25,11 @@ function App() {
   return (
     <div className="App"className="App-header">
       <header >
-      <h1>Total Player :{players.length}</h1>
-      <h4>Selected Player : {playerAdd.length}</h4>
-      <Cricketer  playerAdd= {playerAdd}   ></Cricketer>
+     
+     <h1>Total Player :{players.length}</h1>
+      <h2>Selected Player : {playerAdd.length}</h2>
+      <Cricketer playerAdd= {playerAdd}   ></Cricketer>
+     
       </header>
      <div  className ="card-deck col-sm" style={{padding: '100px',paddingLeft:'200px'}}>
      {
