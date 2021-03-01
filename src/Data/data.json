@@ -1,0 +1,113 @@
+[{
+    "id": 1,
+    "name": "Virat Kohli",
+    "email": "anolton0@odnoklassniki.ru",
+    "image": "https://static.toiimg.com/photo/msid-70260776/70260776.jpg?resizemode=4&width=400",
+    "salary":1500000,
+    "gender": "Agender",
+    "ip_address": null
+   
+  }, {
+    "id": 2,
+    "name": "steve smith",
+    "email": "sgaunt1@noaa.gov",
+    "image":"https://cdn.wisden.com/wp-content/uploads/2020/10/GettyImages-1172968046-e1603711224303-980x530.jpg",
+    "salary":1300000,
+    "gender": "Agender",
+    "ip_address": null
+    
+  }, {
+    "id": 3,
+    "name": "rohit sharma",
+    "email": "pdesaur2@issuu.com",
+    "image":"https://timesofindia.indiatimes.com/photo/69257289.cms",
+    "salary":1400000,
+    "gender": "Non-binary",
+    "ip_address": null
+  }, {
+    "id": 4,
+    "name": "liton das",
+    "email": "lloncaster3@networkadvertising.org",
+    "image":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/201809/Liton_Das.jpeg?mYVRVYDFp8G9VhQQs1nV.DsAhELJlm0j",
+    "salary":1000000,
+    "gender": "Agender",
+    "ip_address": null
+    
+  }, {
+    "id": 5,
+    "name": "shakib al hasan",
+    "email": "jwedmore4@sohu.com",
+    "image":"https://resources.pulse.icc-cricket.com/ICC/photo/2019/07/07/df88ae9a-7a89-48e3-adf3-f641f160a14c/Shakib.jpg",
+    "salary":1600000,
+    "gender": "Agender",
+    "ip_address": null
+   
+  }, {
+    "id": 6,
+    "name": "ms dhoni",
+    "email": "wosheils5@usatoday.com",
+    "image":"https://c.ndtvimg.com/2020-07/m7opt04g_ms-dhoni-afp_625x300_06_July_20.jpg",
+    
+    "salary":1350000,
+    "gender": "Agender",
+    "ip_address": null
+   
+  }, {
+    "id": 7,
+    "name": "mahmudullah riyad",
+    "email": "dnorres6@google.de",
+    "image":"https://static.toiimg.com/thumb/msid-76356800,width-500,resizemode-4,imgsize-/76356800.jpg",
+   
+    "salary":1100000,
+    "gender": "Agender",
+    "ip_address": null
+    
+  }, {
+    "id": 8,
+    "name": "glenn maxwell",
+    "email": "dcookson7@deliciousdays.com",
+    "image":"https://storage.googleapis.com/cricketimages/Players/7Q.png",
+    
+    "salary":1369000,
+    "gender": "Agender",
+    "ip_address": null
+    
+  }, {
+    "id": 9,
+    "name": "Rasid Khan",
+    "email": "ezamorano8@amazon.co.uk",
+    "image":"https://e0.365dm.com/20/11/768x432/skysports-rashid-khan-sussex_5166753.jpg?20201109120201",
+    
+    "salary":900000,
+    "gender": "Agender",
+    "ip_address": null
+   
+  }, {
+    "id": 10,
+    "name": "Kagiso Rabada",
+    "email": "bweathers9@freewebs.com",
+    "image":"https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/06/01/907976-866805-828982-2-kagiso-rabada-afp.jpg",
+     "salary":800000,
+     "gender": "Agender",
+    "ip_address": null
+   
+  }, {
+    "id": 11,
+    "name": "Mitchell Starc",
+    "email": "fsydrya@usnews.com",
+    "image":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170643/mitchell-starc.jpg",
+   
+    "salary":1000000,
+    "gender": "Agender",
+    "ip_address": null
+   
+  }, {
+    "id": 12,
+    "name": "Kane Williamson",
+    "email": "oiveansb@blogs.com",
+    "image":"https://www.india.com/wp-content/uploads/2020/07/Kane-Williamson-celebrates-after-scoring-ton-for-New-Zealand%C2%A9Twitter.jpg",
+    "salary":1320000,
+    "gender": "Agender",
+    "ip_address": null
+    
+  }]
